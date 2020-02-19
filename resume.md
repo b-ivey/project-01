@@ -9,14 +9,21 @@
 <body>
 	<h1>Yoko Hwang</h1>
 	<p>Insert image here</p>
-	<p><strong>📍Madrid, Spain | 📞 +34 691 132 240 | 📩 yokohwang14@gmail.com</strong></p>
-	<p>I am a hardworking student with a passion to design and always eager to learn something new</p>
+	<ul>
+		<li>Madrid, Spain</li>
+		<li>+34 691 132 240</li>
+		<li>yokohwang14@gmail.com</li>
+	</ul>
+	
+	<p><em>I am a hardworking student with a passion to design and always eager to learn something new<em></p>
 	
 <h3>Education</h3>
 	<ul>
-		<li>Uruguayan American School – <em>International Baccalaureate Certificates</em> | 2003 - 2017</li>
-		<li>IE University – <em>Bachelor in Design</em> | 2017 - 2021</li>
-		<li>University of Miami – <em>Study Abroad</em> | January - May, 2020</li>
+		<li>Uruguayan American School, <em>International Baccalaureate Certificates</em>, 2003 - 2017</li>
+		<li>IE University</li>
+			<li>&nbsp;&nbsp;&nbsp;<em>Bachelor in Design</em></li>
+			<li>&nbsp;&nbsp;&nbsp;2017 - 2021</li>
+		<li>University of Miami, <em>Study Abroad</em>, January - May, 2020</li>
 	</ul>
 <h3>Work Experience</h3>
 	<h4>&nbsp;&nbsp;&nbsp;TATTVA NEPAL: Creative Chief Officer | September 2018 - November 2019</h4>
