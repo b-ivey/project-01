@@ -20,8 +20,8 @@
 <h3>Education</h3>
 	<ul>
 		<li>Uruguayan American School</li>
-		&nbsp;&nbsp;&nbsp;<li><em>International Baccalaureate Certificates</em></li>
-			<li>2003 - 2017</li>
+		<p><em>&nbsp;&nbsp;&nbsp;International Baccalaureate Certificates</em></p>
+		<p>&nbsp;&nbsp;&nbsp;2003 - 2017</p>
 		<li>IE University</li>
 			&nbsp;&nbsp;&nbsp;<li><em>Bachelor in Design</em></li>
 			&nbsp;&nbsp;&nbsp;<li>2017 - 2021</li>
