@@ -19,10 +19,12 @@
 	
 <h3>Education</h3>
 	<ul>
-		<li>Uruguayan American School, <em>International Baccalaureate Certificates</em>, 2003 - 2017</li>
+		<li>Uruguayan American School</li>
+			&nbsp;&nbsp;&nbsp;<li><em>International Baccalaureate Certificates</em></li>
+			&nbsp;&nbsp;&nbsp;<li>2003 - 2017</li>
 		<li>IE University</li>
-			<li>&nbsp;&nbsp;&nbsp;<em>Bachelor in Design</em></li>
-			<li>&nbsp;&nbsp;&nbsp;2017 - 2021</li>
+			&nbsp;&nbsp;&nbsp;<li><em>Bachelor in Design</em></li>
+			&nbsp;&nbsp;&nbsp;<li>2017 - 2021</li>
 		<li>University of Miami, <em>Study Abroad</em>, January - May, 2020</li>
 	</ul>
 <h3>Work Experience</h3>
