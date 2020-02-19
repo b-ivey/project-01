@@ -20,12 +20,11 @@
 <h3>Education</h3>
 	<ul>
 		<li>Uruguayan American School</li>
-		<p><em>&nbsp;&nbsp;&nbsp;International Baccalaureate Certificates</em></p>
-		<p>&nbsp;&nbsp;&nbsp;2003 - 2017</p>
+			<p><em>&nbsp;&nbsp;&nbsp;International Baccalaureate Certificates, 2003 - 2017</em></p>
 		<li>IE University</li>
-			&nbsp;&nbsp;&nbsp;<li><em>Bachelor in Design</em></li>
-			&nbsp;&nbsp;&nbsp;<li>2017 - 2021</li>
-		<li>University of Miami, <em>Study Abroad</em>, January - May, 2020</li>
+			<p><em>&nbsp;&nbsp;&nbsp;Bachelor in Design, 2017 - 2021</em></p>
+		<li>University of Miami</li>
+			<p><em>&nbsp;&nbsp;&nbsp;Study Abroad, January - May, 2020</em></p>
 	</ul>
 <h3>Work Experience</h3>
 	<h4>&nbsp;&nbsp;&nbsp;TATTVA NEPAL: Creative Chief Officer | September 2018 - November 2019</h4>
