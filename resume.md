@@ -15,13 +15,13 @@
 		<li>yokohwang14@gmail.com</li>
 	</ul>
 	
-	<p><em>I am a hardworking student with a passion to design and always eager to learn something new<em></p>
+<p><em>I am a hardworking student with a passion to design and always eager to learn something new<em></p>
 	
 <h3>Education</h3>
 	<ul>
 		<li>Uruguayan American School</li>
-			&nbsp;&nbsp;&nbsp;<li><em>International Baccalaureate Certificates</em></li>
-			&nbsp;&nbsp;&nbsp;<li>2003 - 2017</li>
+		&nbsp;&nbsp;&nbsp;<li><em>International Baccalaureate Certificates</em></li>
+			<li>2003 - 2017</li>
 		<li>IE University</li>
 			&nbsp;&nbsp;&nbsp;<li><em>Bachelor in Design</em></li>
 			&nbsp;&nbsp;&nbsp;<li>2017 - 2021</li>
