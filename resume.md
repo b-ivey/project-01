@@ -25,7 +25,8 @@
 	</ul>
 
 <h3>Work Experience</h3>
-	<h4>&nbsp;&nbsp;&nbsp;TATTVA NEPAL: Creative Chief Officer, September 2018 - November 2019</h4>
+	<h4>&nbsp;&nbsp;&nbsp;TATTVA NEPAL: Creative Chief Officer, </h4>
+	<h3>&nbsp;&nbsp;&nbsp;September 2018 - November 2019</h3>
 	<ul>
 		<li>Developing the brand identity of TATTVA NEPAL. What represents us, and what do we want to convey to the audience.</li>
 		<li>Strategically working with the rest of the team to create campaigns and marketing.</li>
