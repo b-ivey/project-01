@@ -20,13 +20,8 @@
   </ul>
   </nav>
 
-   <ul>
-	<li>Madrid, Spain</li>
-	<li>+34 691 132 240</li>
-	<li>yokohwang14@gmail.com</li>
-   </ul>
-	<h3>About Me</h3>
-<p><em>I am a hardworking student with a passion to design and always eager to learn something new</em></p>
+   <h3>About Me</h3>
+<p><em>I am a hardworking student with a passion to design and always eager to learn something new. I was born and raised in Montevideo, Uruguay and currently studying in Madrid, Spain.</em></p>
 
 <main>
 <h3>Education</h3>
