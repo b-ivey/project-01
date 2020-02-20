@@ -9,15 +9,25 @@
 <body>
 	<h1>Yoko Hwang</h1>
 	<p>Insert image here</p>
+	
+<nav>
+  <ul>
+      <li>Contact Me</li>
+      <li>Education</li>
+      <li>Work Experiences</li>
+      <li>Languages</li>
+      <li>Computer Skills</li>
+  </ul>
+  </nav>
 	<h2>Contact Me</h2>
    <ul>
 	<li>Madrid, Spain</li>
 	<li>+34 691 132 240</li>
 	<li>yokohwang14@gmail.com</li>
    </ul>
-	
+
 <p><em>I am a hardworking student with a passion to design and always eager to learn something new</em></p>
-<section>	
+<main>
 <h3>Education</h3>
 	<ul>
 		<li>Uruguayan American School</li>
@@ -27,8 +37,7 @@
 		<li>University of Miami</li>
 			<p><em>&nbsp;&nbsp;&nbsp;Study Abroad, January - May, 2020</em></p>
 	</ul>
-</section>
-<section>
+
 <h3>Work Experience</h3>
 	<h4>&nbsp;&nbsp;&nbsp;TATTVA NEPAL: Creative Chief Officer | September 2018 - November 2019</h4>
 	<ul>
@@ -89,6 +98,6 @@
 		<td>SPSS</td>
 	</tr>
 </table>
-	
+</main>
 </body>
 </html>
