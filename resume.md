@@ -10,8 +10,8 @@
 	<h1>Yoko Hwang</h1>
 	<img src="yoko.jpg" alt="Yoko">
 
-   <h3>About Me</h3>
-<p>I am a hardworking student with a passion to design and always eager to learn something new. I was born and raised in Montevideo, Uruguay and currently studying in Madrid, Spain.</p>
+   <h4>About Me</h4>
+<p>I am a hardworking student with a passion to design and always eager to learn something new. I was born and raised in Montevideo, Uruguay and currently studying in Madrid, Spain at IE University the Bachelor in Design.</p>
 
 <main>
 <h3>Education</h3>
