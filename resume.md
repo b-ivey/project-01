@@ -9,7 +9,7 @@
 <body>
 	<h1>Yoko Hwang</h1>
 	<p>Insert image here</p>
-	
+	<h2>Contact Me</h2>
    <ul>
 	<li>Madrid, Spain</li>
 	<li>+34 691 132 240</li>
@@ -28,6 +28,7 @@
 			<p><em>&nbsp;&nbsp;&nbsp;Study Abroad, January - May, 2020</em></p>
 	</ul>
 </section>
+<section>
 <h3>Work Experience</h3>
 	<h4>&nbsp;&nbsp;&nbsp;TATTVA NEPAL: Creative Chief Officer | September 2018 - November 2019</h4>
 	<ul>
@@ -62,6 +63,15 @@
 		<li>Korean (Basic)</li>
 	</ul>
 <h3>Computer Skills</h3>
+<table>
+	<tr>
+		<th>Design Softwares</th>
+		<th>Others</th>
+	</tr>
+	<tr>
+		<th>Adobe Photoshop</th>
+	</tr>
+</table>
 	<ul>
 		<li>Adobe Photoshop</li>
 		<li>Adobe Illustrator</li>
