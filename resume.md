@@ -11,6 +11,7 @@
 	<p>Insert image here</p>
 	
 <nav>
+	<h3>Navigation</h3>
   <ul>
       <li>Contact Me</li>
       <li>Education</li>
@@ -19,7 +20,7 @@
       <li>Computer Skills</li>
   </ul>
   </nav>
-	<h2>Contact Me</h2>
+	<h3>Contact Me</h3>
    <ul>
 	<li>Madrid, Spain</li>
 	<li>+34 691 132 240</li>
