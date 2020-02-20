@@ -13,14 +13,13 @@
 <nav>
 	<h3>Navigation</h3>
   <ul>
-      <li>Contact Me</li>
       <li>Education</li>
       <li>Work Experiences</li>
       <li>Languages</li>
       <li>Computer Skills</li>
   </ul>
   </nav>
-	<h3>Contact Me</h3>
+
    <ul>
 	<li>Madrid, Spain</li>
 	<li>+34 691 132 240</li>
@@ -32,11 +31,11 @@
 <main>
 <h3>Education</h3>
 	<ul>
-		<li>Uruguayan American School</li>
+		<li><a href="https://www.uas.edu.uy">Uruguayan American School</a></li>
 			<p><em>&nbsp;&nbsp;&nbsp;International Baccalaureate Certificates, 2003 - 2017</em></p>
-		<li>IE University</li>
+		<li><a href="https://www.ie.edu/university/">IE University</a></li>
 			<p><em>&nbsp;&nbsp;&nbsp;Bachelor in Design, 2017 - 2021</em></p>
-		<li>University of Miami</li>
+		<li><a href="https://welcome.miami.edu">University of Miami</a></li>
 			<p><em>&nbsp;&nbsp;&nbsp;Study Abroad, January - May, 2020</em></p>
 	</ul>
 
@@ -102,6 +101,12 @@
 </table>
 </main>
 <footer>
- <a href="www.yokohwang.com">Portfolio</a>
+	<h3>Contact Me</h3>
+   <ul>
+	<li>Madrid, Spain</li>
+	<li>+34 691 132 240</li>
+	<li>yokohwang14@gmail.com</li>
+   </ul>
+ </footer>
 </body>
 </html>
