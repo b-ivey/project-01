@@ -16,7 +16,7 @@
 	<li>yokohwang14@gmail.com</li>
    </ul>
 	
-<p><em>I am a hardworking student with a passion to design and always eager to learn something new<em></p>
+<p><em>I am a hardworking student with a passion to design and always eager to learn something new</em></p>
 <section>	
 <h3>Education</h3>
 	<ul>
