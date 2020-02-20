@@ -70,17 +70,25 @@
 	</tr>
 	<tr>
 		<th>Adobe Photoshop</th>
+		<th>Microsoft Word</th>
+	</tr>
+	<tr>
+		<th>Adobe Illustrator</th>
+		<th>Microsoft Excel</th>
+	</tr>
+	<tr>
+		<th>Rhinoceros</th>
+		<th>Microsoft PowerPoint</th>
+	</tr>
+	<tr>
+		<th>Adobe InDesign</th>
+		<th>Keynote</th>
+	</tr>
+	<tr>
+		<th>Cinema 4D</th>
+		<th>SPSS</th>
 	</tr>
 </table>
-	<ul>
-		<li>Adobe Photoshop</li>
-		<li>Adobe Illustrator</li>
-		<li>Adobe Dimensions</li>
-		<li>Adobe InDesign</li>
-		<li>Adobe Lightroom</li>
-		<li>Advanced User in Microsoft Office</li>
-		<li>Cinema4D</li>
-		<li>Rhinoceros</li>
-	</ul>
+	
 </body>
 </html>
