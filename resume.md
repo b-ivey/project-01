@@ -69,24 +69,24 @@
 		<th>Others</th>
 	</tr>
 	<tr>
-		<th>Adobe Photoshop</th>
-		<th>Microsoft Word</th>
+		<td>Adobe Photoshop</td>
+		<td>Microsoft Word</td>
 	</tr>
 	<tr>
-		<th>Adobe Illustrator</th>
-		<th>Microsoft Excel</th>
+		<td>Adobe Illustrator</td>
+		<td>Microsoft Excel</td>
 	</tr>
 	<tr>
-		<th>Rhinoceros</th>
-		<th>Microsoft PowerPoint</th>
+		<td>Rhinoceros</td>
+		<td>Microsoft PowerPoint</td>
 	</tr>
 	<tr>
-		<th>Adobe InDesign</th>
-		<th>Keynote</th>
+		<td>Adobe InDesign</td>
+		<td>Keynote</td>
 	</tr>
 	<tr>
-		<th>Cinema 4D</th>
-		<th>SPSS</th>
+		<td>Cinema 4D</td>
+		<td>SPSS</td>
 	</tr>
 </table>
 	
